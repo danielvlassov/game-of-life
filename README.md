@@ -14,6 +14,8 @@ The program will update the state of the grid according to the rules of the game
 3. Enter the number of rows and columns of the grid when prompted.
 4. Watch the simulation!
 
+(CTRL + C to exit)
+
 ## Rules of the Game of Life
 
 1. Any live cell with fewer than two live neighbours dies, as if by underpopulation.

@@ -5,6 +5,7 @@
 
 #include "Grid.h"
 
+
 class GameOfLife {
 public:
     GameOfLife(int rows, int cols);
