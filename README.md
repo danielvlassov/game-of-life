@@ -9,7 +9,7 @@ The program will update the state of the grid according to the rules of the game
 
 ## Usage
 
-1. Compile with the following command: `g++ -o game_of_life Cell.cpp Grid.cpp GameOfLife.cpp main.cpp`
+1. Compile with the following command: `g++ -o game_of_life Cell.cc Grid.cc GameOfLife.cc main.cc`
 2. Run the program: `./game_of_life`
 3. Enter the number of rows and columns of the grid when prompted.
 4. Watch the simulation!
