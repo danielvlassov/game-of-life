@@ -4,6 +4,9 @@
 // Grid Header File
 
 #include "Cell.h"
+#include <iostream>
+#include <cstdlib>
+#include <ctime>
 
 class Grid {
 public:

@@ -1,7 +1,4 @@
 #include "Grid.h"
-#include <iostream>
-#include <cstdlib>
-#include <ctime>
 
 Grid::Grid(int rows, int cols) : m_rows(rows), m_cols(cols) {
     m_grid = new Cell*[m_rows];

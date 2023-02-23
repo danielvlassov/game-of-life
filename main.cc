@@ -1,4 +1,3 @@
-#include <iostream>
 #include "GameOfLife.h"
 
 int main() {

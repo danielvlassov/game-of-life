@@ -4,7 +4,8 @@
 // GameOfLife Header File
 
 #include "Grid.h"
-
+#include <chrono>
+#include <thread>
 
 class GameOfLife {
 public:
